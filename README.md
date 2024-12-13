@@ -1,3 +1,3 @@
 # Coin-Counting
-# Name : Narawit Inyos
-# ID : 650610841
+## Name : Narawit Inyos
+## ID : 650610841
